@@ -1,0 +1,3 @@
+# Next.js Slow API Call
+
+This repository demonstrates a common issue in Next.js applications: slow API calls causing noticeable delays in page rendering. The `about.js` file contains a simulated API call that takes 3 seconds to complete, resulting in a noticeable hang before the page fully loads.  The solution addresses this by incorporating loading states and better handling of asynchronous operations. 
